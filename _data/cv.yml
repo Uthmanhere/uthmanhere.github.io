@@ -56,7 +56,7 @@ cv:
           - Testing and Documenting steps to reproduce and linux implementation of RoCE with Open vSwitch for Overlay Networks & Link Aggregation using TC Rules
 
     Publications:
-      - title: ODOS-MPI\: HPC-Friendly SmartNIC Offloading of Computation/Communication Kernels
+      - title: ODOS-MPI -- HPC-Friendly SmartNIC Offloading of Computation/Communication Kernels
         authors:
           - Muhammad Usman
           - Mariano Benito
