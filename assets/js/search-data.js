@@ -66,11 +66,16 @@ ninja.data = [{
             window.location.href = "/blog/2026/raptor/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
+      },{id: "books-the-mountain-is-you",
+          title: 'The Mountain is You',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
+              window.location.href = "/books/mountain/";
+            },},{id: "books-the-innovators",
+          title: 'The Innovators',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/innovators/";
             },},{id: "news-odos-mpi-paper-got-accepted-at-sc25",
           title: 'ODOS-MPI paper got accepted at SC25',
           description: "",
