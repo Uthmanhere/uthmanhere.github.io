@@ -66,7 +66,22 @@ ninja.data = [{
             window.location.href = "/blog/2026/raptor/";
           
         },
-      },{id: "books-the-mountain-is-you",
+      },{id: "books-it-doesn-39-t-have-to-be-crazy-at-work",
+          title: 'It Doesn&amp;#39;t Have to Be Crazy at Work',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/crazy_at_work/";
+            },},{id: "books-a-wonderful-life",
+          title: 'A Wonderful Life',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/wonderful_life/";
+            },},{id: "books-the-supermen-the-story-of-seymour-cray-and-the-technical-wizards-behind-the-supercomputer",
+          title: 'The Supermen: The Story of Seymour Cray and the Technical Wizards behind the...',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/supermen/";
+            },},{id: "books-the-mountain-is-you",
           title: 'The Mountain is You',
           description: "",
           section: "Books",handler: () => {
