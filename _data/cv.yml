@@ -62,7 +62,7 @@ cv:
           - Mariano Benito
           - Sergio Iserte
           - Antonio J. Peña
-        publisher: SC \'25: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis
+        publisher: SC \'25 -- Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis
         releaseDate: 2025-11-29
         url: https://dl.acm.org/doi/10.1145/3712285.3759808 
         summary: 
@@ -74,7 +74,7 @@ cv:
           - Sergio Iserte
           - Roger Ferrer
           - Antonio J. Peña
-        publisher: SC-W \'23: Proceedings of the SC \'23 Workshops of the International Conference on High Performance Computing, Network, Storage, and Analysis
+        publisher: SC-W \'23 -- Proceedings of the SC \'23 Workshops of the International Conference on High Performance Computing, Network, Storage, and Analysis
         releaseDate: 2023-08-13 
         url: https://dl.acm.org/doi/10.1145/3624062.3624165
         summary: 
