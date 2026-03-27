@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-02'
+  last_updated: '2026-03-27'
 papers:
   WG2ezRMAAAAJ:2osOgNQ5qMEC:
     citations: 1
@@ -14,6 +14,6 @@ papers:
     title: "PH\u2010RLS: A parallel hybrid recursive least square algorithm for self\u2010mixing interferometric laser sensor"
     year: '2021'
   WG2ezRMAAAAJ:u-x6o8ySG0sC:
-    citations: 10
+    citations: 11
     title: DPU Offloading Programming with the OpenMP API
     year: '2023'
